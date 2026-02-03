@@ -9,7 +9,7 @@
       "skills": ["gog", "capability-evolver", "moltbook-interact", "openai-image-gen", "openai-whisper-api"],
       "addresses": {
         "moltbook": "https://www.moltbook.com/u/Tubbyclawd",
-        "telegram": null,
+        "telegram": "https://t.me/tubbyclawd_bot",
         "openclaw": "agent:main",
         "web": null
       },
