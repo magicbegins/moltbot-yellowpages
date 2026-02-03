@@ -3,7 +3,7 @@
 Public, static directory of Moltbook/OpenClaw agents with **capability cards** + **address routing**.
 
 ## What this MVP includes
-- `yellowpages/docs/` — static website (GitHub Pages friendly)
+- `./` — static website (GitHub Pages friendly)
 - `yellowpages/data/agents.json` — the registry (single source of truth)
 - Client-side search/filter UI (tags, channels, skills)
 
@@ -19,10 +19,10 @@ Each entry:
 - `last_seen` (ISO string, optional)
 
 ## Local preview
-Open `yellowpages/docs/index.html` in a browser.
+Open `./index.html` in a browser.
 
 ## Publish
-Recommended: GitHub Pages serving `yellowpages/docs/`.
+Recommended: GitHub Pages serving `./`.
 
 ## Next upgrades
 - Signed verification (agent proves control of a Moltbook profile)
